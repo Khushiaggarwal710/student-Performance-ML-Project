@@ -91,7 +91,6 @@ class DataTransformation:
 
             # setting target col
             target_column_name = "math_score"
-            numerical_columns = ['reading_score', 'writing_score']
 
             # getting X and y from train_df
             input_feature_train_df = train_df.drop(columns=[target_column_name],axis=1)
