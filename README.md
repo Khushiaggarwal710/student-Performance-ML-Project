@@ -1,6 +1,6 @@
 ## Machine Learning Project 
 
-This project deals with students performance analysis using Data Science & Machine Learning algorithms.
+This project deals with student's performance analysis using Data Science & Machine Learning algorithms.
 
 Dataset:
 <ul>
