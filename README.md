@@ -2,7 +2,7 @@
 
 This project deals with student's performance analysis using Data Science & Machine Learning algorithms.
 
-Dataset:
+Dataset Info:
 <ul>
 <li><b>Demographic Information:</b> Gender, race/ethnicity, parental education.</li>
 <li><b>Academic Performance:</b> Reading score, writing score, math score (target variable).</li>
